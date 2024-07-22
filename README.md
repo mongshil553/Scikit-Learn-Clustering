@@ -32,11 +32,3 @@ Left: XGBClassifier, Right: GradientBoostingClassifier <br><br>
 <img src = " " width="45%" height="45%"><br>
 RandomForestClassifier <br><br>
 </div>
-
-<hr>
-<div align=left> <h2>Ensemble</h2> </div>
-<div align=center>
-<img src = " " width="45%" height="45%"><br>
-Voting Ensemble using all of the model above. <br><br>
-</div>
-Through Voting Ensemble, Classification Precision has increased.
