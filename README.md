@@ -33,23 +33,17 @@ Selected Models are the following; <br><br>
 <hr>
 <h2>Model Analysis</h2>
 <h3>KMeans:</h3>
-<div align=center>
 <img src = "https://github.com/user-attachments/assets/47233353-33ca-4abe-859a-d633b86ce592" width="60%" height="60%">
 <img src = "https://github.com/user-attachments/assets/7f542928-fcda-4303-a32c-a059c202f0d7" width="30%" height="30%">
-</div>
+
 
 <h3>MeanShift:</h3>
-<div align=center>
 <img src = "https://github.com/user-attachments/assets/f040eb5d-a7e5-45f2-9200-26947339e9b1" width="90%" height="90%">
-</div>
 
-<h3>Gaussian Mixture</h3>
-<div align=center>
-<img src = "https://github.com/user-attachments/assets/d4a98873-f1d9-4b35-a7eb-94227ad3823a" width="90%" height="90%"><br>
-</div>
+<h3>Gaussian Mixture:</h3>
+<img src = "https://github.com/user-attachments/assets/d4a98873-f1d9-4b35-a7eb-94227ad3823a" width="90%" height="90%">
 
-<img src = "https://github.com/user-attachments/assets/e633bfd4-7b76-4c78-8d8e-b222614e2fd8" width="60%" height="60%"> : kdeplot of train set<br>
-![image](https://github.com/user-attachments/assets/076f8139-df17-429e-9f6b-5f5ea5db1795)
-![image](https://github.com/user-attachments/assets/efc4b687-4967-411e-a39e-494977740bf5)
-![image](https://github.com/user-attachments/assets/44fcdb41-618b-4936-9354-de0bb1c5b24d)
+<h3>DBSCAN:</h3>
+<img src = "https://github.com/user-attachments/assets/91a686db-8d9f-4bae-8425-a692d2edde22" width="60%" height="60%">
+<img src = "https://github.com/user-attachments/assets/dcfd8363-0083-4ba8-b553-b80023bacf4b" width="37%" height="37%">
 
