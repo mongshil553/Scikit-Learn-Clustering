@@ -1,4 +1,4 @@
-# Scikit-Learn-Clustering
+# Sleep Health and Lifestyle Clustering using Scikit-Learn
 <hr>
 <h2>Data</h2>
 https://www.kaggle.com/datasets/informateur234/sleep-health-and-lifestyle-dataset<br>
